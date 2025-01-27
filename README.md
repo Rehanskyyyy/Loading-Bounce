@@ -12,4 +12,4 @@ This project showcases a sleek and modern loading bounce animation created purel
 - **CSS**: Especially **CSS animations** to create the smooth bounce effect.
 
 ## Demo:
-- 
+- https://rehanskyyyy.github.io/Loading-Bounce/
